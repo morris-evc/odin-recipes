@@ -1,0 +1,19 @@
+/* styles.css */
+
+body {
+    background-color:#F9DBBD;
+}
+
+h1,
+h3 {
+    color: #D7263D;
+}
+
+p {
+    color: #272838;
+}
+
+ul,
+ol {
+    color: #56A3A6;
+}
